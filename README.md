@@ -1,7 +1,7 @@
 # Upload Image App
 **Aplicacion para subir imagenes a la nube de Cloudinary, usando Drag & Drop. 📤**
 
-![Image cover](https://res.cloudinary.com/dnxchppfm/image/upload/v1654742036/cover_ssqkm7.gif)
+![Image cover](https://res.cloudinary.com/dnxchppfm/image/upload/v1656596261/posts/upload-image_mjbx1j.gif)
 
 ## Tecnologias usadas
 - React JS
